@@ -1,0 +1,1 @@
+fundle plugin 'edc/bass'
